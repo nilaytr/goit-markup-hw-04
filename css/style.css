@@ -406,7 +406,12 @@ transform: translateY(0%);
         letter-spacing: 0.02em;
         color: #ffffff;
         margin-bottom: 16px;
-        ]
+    }
+     
+    .footer-social-media-ul {
+        display: flex;
+        gap: 16px;
+    }
 
     .footer-logo {
         display: inline-block;
