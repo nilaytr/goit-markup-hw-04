@@ -100,6 +100,10 @@ a {
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.header-li .first-class {
+    color: #404bbf;
+}
+
 .header-li .link::after {
     content: '';
     width: 100%;
