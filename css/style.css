@@ -87,8 +87,8 @@ a {
     gap: 40px;
 }
 
-.header-li .link:hover,
-.header-li .link:focus {
+.header-ul .link:hover,
+.header-ul .link:focus {
     color: #404bbf;
 }
 
