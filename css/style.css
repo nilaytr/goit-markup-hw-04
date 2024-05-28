@@ -87,8 +87,8 @@ a {
     gap: 40px;
 }
 
-.header-ul .link:hover,
-.header-ul .link:focus {
+.header-li .link:hover,
+.header-li .link:focus {
     color: #404bbf;
 }
 
@@ -126,7 +126,7 @@ a {
 
 .adres:hover,
 .adres:focus {
-    color: #404bbf
+color: #404bbf
 }
 
 .first-section {
