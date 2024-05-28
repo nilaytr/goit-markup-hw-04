@@ -356,8 +356,7 @@ color: #404bbf
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.fourth-list .fourth-section-text:hower,
-.fourth-list .fourth-section-text:focus {
+.fourth-list .fourth-section-text:hower {
 transform: translateY(0%);
 }
 
