@@ -395,6 +395,15 @@ transform: translateY(0%);
         max-width: 264px;
     }
 
+    .footer-social-media-text {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #ffffff;
+        margin-bottom: 16px;
+        ]
+
     .footer-logo {
         display: inline-block;
         margin-bottom: 16px;
